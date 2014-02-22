@@ -12,7 +12,7 @@ namespace Game
         {
             Console.WriteLine("Commited by dnmitev");
             Console.WriteLine();
-            Console.WriteLine("Commited by misho2");
+            Console.WriteLine("Commited by misho3");
         }
         
     }
